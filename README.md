@@ -1,3 +1,4 @@
+## this app is about web api with github that if the user enter the username it provide the github data of the user:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
