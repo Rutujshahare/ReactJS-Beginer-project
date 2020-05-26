@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  text-align:center;
+  border:2px dotted black;
+  margin-left: 360px;
+  margin-right:360px;
+  margin-top: 50px;
+  border-radius: 20px;
+  background-image: url(Beach.jpg);
+  background-repeat: none;
+  background-attachment: fixed;
+  
+
+  
+ 
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+img
+{
+   width:90px;
+   padding:12px;
+   border:4px inset black;
+   margin-top: 10px;
+}
+.github-profile
+{
+    margin-left: 180px;
+    margin-right:180px;
+    border: 4px solid black;
+    border-radius: 90px;
+    margin:12px;
+
+}
+.Header
+{
+  font-size:30px;
+  padding:16px;
+  margin:23px;
+  background-image:linear-gradient(white,rgb(219, 81, 127)) ;
+}
+button
+{
+  font-size:23px;
+  background-color:blue;
+  border:2px solid black;
+  border-radius: 20px;
+  padding:7px;
+  margin-left:16px;
+
+}
+.Name
+{
+  font-size: 23px;
+  text-align: center;
+  border-radius: 5px;
+}
+.Company
+{
+  font-size: 23px;
+  text-align: center;
+  border-radius: 5px;
+}
+input
+{
+  border:2px solid black;
+  border-radius: 20px;
+  padding:7px;
+  margin-left:16px;
+  font-size:23px;
+}
+#root
+{
+  background-color: white;
+}
